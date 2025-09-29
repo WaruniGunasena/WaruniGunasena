@@ -1,8 +1,8 @@
 # Hi, I'm Waruni 👋  
 
 - 🎓 Graduate at **Faculty of Information Technology, University of Moratuwa**.  
-- 💻 Completed internship at **Agrithmics** as a Software Engineer Intern, working on **RESTful APIs, payroll module, and RabbitMQ integrations**.  
-- 🤖 Worked with **Machine Learning & LLMs** to predict YouTube video engagement and generate tailored content for Sri Lankan audiences.  
+- 💻 Completed internship at **Agrithmics** as a Software Engineer Intern.
+- 🤖 Worked with **Machine Learning & DeepLearning** projects.
 - 🛠️ Currently developing a **Real-Time Collaborative Whiteboard Application** with live sync and multi-user support.  
 - ✍️ I occasionally write tech articles on [Medium](https://medium.com/@gunasenakgwc.20).  
 
