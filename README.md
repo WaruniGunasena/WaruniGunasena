@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies I have used and learned  
+## Tools & Technologies I have used and learned  
 
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
@@ -26,7 +26,7 @@
 
 ---
 
-## 📫 Connect with me  
+## Connect with me  
 
 <p align="left">  
   <a href="https://www.linkedin.com/in/warunigunasena/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40"/></a>  
