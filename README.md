@@ -6,8 +6,6 @@
 - 🛠️ Currently developing a **Real-Time Collaborative Whiteboard Application** with live sync and multi-user support.  
 - ✍️ I occasionally write tech articles on [Medium](https://medium.com/@gunasenakgwc.20).  
 
----
-
 ## Tools & Technologies I have used and learned  
 
 <p align="left">  
@@ -23,8 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
 </p>  
-
----
 
 ## Connect with me  
 
