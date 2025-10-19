@@ -3,7 +3,7 @@
 - 🎓 Graduate at **Faculty of Information Technology, University of Moratuwa**.  
 - 💻 Completed internship at **Agrithmics** as a Software Engineer Intern.
 - 🤖 Worked with **Machine Learning & DeepLearning** projects.
-- 🛠️ Currently developing a **To do App** with live sync and multi-user support.  
+- 🛠️ Currently developing a **To do App** with React.js.  
 - ✍️ I occasionally write tech articles on [Medium](https://medium.com/@gunasenakgwc.20).  
 
 ## Tools & Technologies I have used and learned  
